@@ -8,8 +8,8 @@ some general statistics over a specified date range. Not quite finished yet. Cur
 but there are bugs in getting correct time totals. 
 
 ## TODO:
-Fix time bug, hours are not calculating corrently when jam times go past midnight
-
-General Refactor to ease readability
-
-Export analysis data as CSV
+1. Fix time bug, hours are not calculating corrently when jam times go past midnight
+2. General Refactor to ease readability
+3. Proper file path entry. Currently the read file is in a hardcoded location
+4. Export analysis data as CSV
+5. GUI?? (Perhaps Rebuild in Python.....?)
