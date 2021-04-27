@@ -9,5 +9,7 @@ but there are bugs in getting correct time totals.
 
 TODO:
 Fix time bug, hours are not calculating corrently when jam times go past midnight
+
 General Refactor to ease readability
+
 Export analysis data as CSV
