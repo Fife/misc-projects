@@ -1,3 +1,11 @@
+/*
+This is a traffic file analyzer for the jamulus software. It gives various statistics on the traffic file that is generated from the jamulus server such as:
+Number of Jams:
+Number of Unique Visitors:
+Total Jam Time:
+Average Jame Size:
+*/
+
 #include <iostream>
 #include <fstream>
 #include <vector>
