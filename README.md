@@ -5,7 +5,7 @@ This is where miscellaneous projects go.
 
 This is a peice of software that takes the ouput of the jamulus traffic data file and does some analytical analysis of traffic, and shows
 some general statistics over a specified date range. Not quite finished yet. Currently it identifies unique users and jam sessions and totals them up,
-but there are bugs in getting correct time totals. 
+but there are bugs in getting correct time totals. Started in Summer 2020
 
 ## TODO:
 1. Fix time bug, hours are not calculating corrently when jam times go past midnight
