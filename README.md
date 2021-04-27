@@ -7,7 +7,7 @@ This is a peice of software that takes the ouput of the jamulus traffic data fil
 some general statistics over a specified date range. Not quite finished yet. Currently it identifies unique users and jam sessions and totals them up,
 but there are bugs in getting correct time totals. 
 
-TODO:
+## TODO:
 Fix time bug, hours are not calculating corrently when jam times go past midnight
 
 General Refactor to ease readability
