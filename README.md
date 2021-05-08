@@ -1,5 +1,5 @@
 # misc-projects
-This is where miscellaneous projects go...Possibly to die? 
+This is where miscellaneous projects go...
 
 # Jamulus Traffic Analyzer
 
